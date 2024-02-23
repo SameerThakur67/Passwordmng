@@ -1,0 +1,106 @@
+=============================================Application Started at 2020-01-08 00:01:55.7425022020-01-08 00:01:55.749276 mainFile This is the first launch.
+=============================================Application Started at 2020-01-08 00:03:32.1961272020-01-08 00:03:32.202889 mainFile This is the first launch.
+=============================================Application Started at 2020-01-08 00:06:57.7161252020-01-08 00:06:57.722909 mainFile This is the first launch.
+2020-01-08 00:07:04.703049 genSalt Salt created
+2020-01-08 00:07:04.703841 storeGlobal GPwd stored
+2020-01-08 00:07:04.775692 countAccounts No accounts found on startup
+2020-01-08 00:07:04.775900 countAccounts No accounts found on startup
+2020-01-08 00:07:04.812858 countAccounts No accounts found on startup
+2020-01-08 00:07:04.818817 countAccounts No accounts found on startup
+2020-01-08 00:07:11.357536 refreshWindow Window has been refreshed.
+2020-01-08 00:07:11.431912 countAccounts No accounts found on startup
+2020-01-08 00:07:11.432129 countAccounts No accounts found on startup
+2020-01-08 00:07:11.460187 countAccounts No accounts found on startup
+2020-01-08 00:07:11.465690 countAccounts No accounts found on startup
+=============================================Application Started at 2020-01-08 00:07:21.3592982020-01-08 00:07:21.365648 mainFile Data found
+2020-01-08 00:07:21.411388 countAccounts No accounts found on startup
+2020-01-08 00:07:21.411605 countAccounts No accounts found on startup
+2020-01-08 00:07:21.455411 countAccounts No accounts found on startup
+2020-01-08 00:07:21.461089 countAccounts No accounts found on startup
+2020-01-08 00:07:36.921289 encrypt[al] Encrypt password request.
+2020-01-08 00:07:36.921695 countAccounts No accounts found on startup
+2020-01-08 00:07:36.922530 addEntry New account added: sd
+2020-01-08 00:07:36.927561 refreshWindow Window has been refreshed.
+2020-01-08 00:07:37.007822 countAccounts Found 1 account(s) on startup
+2020-01-08 00:07:37.009324 countAccounts Found 1 account(s) on startup
+2020-01-08 00:07:37.041688 countAccounts Found 1 account(s) on startup
+2020-01-08 00:07:37.048247 countAccounts Found 1 account(s) on startup
+2020-01-08 00:07:37.048887 countAccounts Found 1 account(s) on startup
+2020-01-08 00:07:42.662989 decrypt[al] Decrypt password request.
+2020-01-08 00:07:47.964236 deleteAccount Account deleted: 1
+2020-01-08 00:07:47.964503 refreshWindow Window has been refreshed.
+2020-01-08 00:07:48.052155 countAccounts Found 0 account(s) on startup
+2020-01-08 00:07:48.052509 countAccounts Found 0 account(s) on startup
+2020-01-08 00:07:48.079832 countAccounts Found 0 account(s) on startup
+2020-01-08 00:07:48.085101 countAccounts Found 0 account(s) on startup
+2020-01-08 00:07:54.961803 unlockSession This session has been unlocked.
+2020-01-08 00:07:54.962031 refreshWindow Window has been refreshed.
+2020-01-08 00:07:55.045908 countAccounts Found 0 account(s) on startup
+2020-01-08 00:07:55.046205 countAccounts Found 0 account(s) on startup
+2020-01-08 00:07:55.080026 countAccounts Found 0 account(s) on startup
+2020-01-08 00:07:55.086067 countAccounts Found 0 account(s) on startup
+2020-01-08 00:07:57.526673 lockSession This session has been locked.
+2020-01-08 00:07:57.526926 refreshWindow Window has been refreshed.
+2020-01-08 00:07:57.596932 countAccounts Found 0 account(s) on startup
+2020-01-08 00:07:57.597229 countAccounts Found 0 account(s) on startup
+2020-01-08 00:07:57.628730 countAccounts Found 0 account(s) on startup
+2020-01-08 00:07:57.634264 countAccounts Found 0 account(s) on startup
+2020-01-08 00:07:58.822383 refreshWindow Window has been refreshed.
+2020-01-08 00:07:58.893804 countAccounts Found 0 account(s) on startup
+2020-01-08 00:07:58.894112 countAccounts Found 0 account(s) on startup
+2020-01-08 00:07:58.922569 countAccounts Found 0 account(s) on startup
+2020-01-08 00:07:58.928033 countAccounts Found 0 account(s) on startup
+=============================================Application Started at 2020-01-08 00:09:37.9905592020-01-08 00:09:37.997195 mainFile Data found
+2020-01-08 00:09:38.044041 countAccounts Found 0 account(s) on startup
+2020-01-08 00:09:38.044419 countAccounts Found 0 account(s) on startup
+2020-01-08 00:09:38.087811 countAccounts Found 0 account(s) on startup
+2020-01-08 00:09:38.093941 countAccounts Found 0 account(s) on startup
+2020-01-08 00:09:39.070807 refreshWindow Window has been refreshed.
+2020-01-08 00:09:39.133351 countAccounts Found 0 account(s) on startup
+2020-01-08 00:09:39.133667 countAccounts Found 0 account(s) on startup
+2020-01-08 00:09:39.161358 countAccounts Found 0 account(s) on startup
+2020-01-08 00:09:39.166887 countAccounts Found 0 account(s) on startup
+2020-01-08 00:09:45.417652 encrypt[al] Encrypt password request.
+2020-01-08 00:09:45.418117 countAccounts Found 0 account(s) on startup
+2020-01-08 00:09:45.418927 addEntry New account added: as
+2020-01-08 00:09:45.423080 refreshWindow Window has been refreshed.
+2020-01-08 00:09:45.509938 countAccounts Found 1 account(s) on startup
+2020-01-08 00:09:45.510282 countAccounts Found 1 account(s) on startup
+2020-01-08 00:09:45.549200 countAccounts Found 1 account(s) on startup
+2020-01-08 00:09:45.554936 countAccounts Found 1 account(s) on startup
+2020-01-08 00:09:45.555290 countAccounts Found 1 account(s) on startup
+2020-01-08 00:09:50.028474 checkPassword Bad Global
+2020-01-08 00:09:50.028748 unlockSession This session couldn't unlocked.
+2020-01-08 00:09:53.777815 unlockSession This session has been unlocked.
+2020-01-08 00:09:53.778042 refreshWindow Window has been refreshed.
+2020-01-08 00:09:53.863745 countAccounts Found 1 account(s) on startup
+2020-01-08 00:09:53.864080 countAccounts Found 1 account(s) on startup
+2020-01-08 00:09:53.892054 countAccounts Found 1 account(s) on startup
+2020-01-08 00:09:53.897677 countAccounts Found 1 account(s) on startup
+2020-01-08 00:09:53.898015 countAccounts Found 1 account(s) on startup
+2020-01-08 00:10:00.910893 encrypt[al] Encrypt password request.
+2020-01-08 00:10:00.911410 countAccounts Found 1 account(s) on startup
+2020-01-08 00:10:00.912249 addEntry New account added: dd
+2020-01-08 00:10:00.917277 refreshWindow Window has been refreshed.
+2020-01-08 00:10:00.993510 countAccounts Found 2 account(s) on startup
+2020-01-08 00:10:00.993873 countAccounts Found 2 account(s) on startup
+2020-01-08 00:10:01.020798 countAccounts Found 2 account(s) on startup
+2020-01-08 00:10:01.027412 countAccounts Found 2 account(s) on startup
+2020-01-08 00:10:01.027768 countAccounts Found 2 account(s) on startup
+2020-01-08 00:10:04.480934 deleteAll Deleted all accounts.
+2020-01-08 00:10:04.481163 refreshWindow Window has been refreshed.
+2020-01-08 00:10:04.564240 countAccounts No accounts found on startup
+2020-01-08 00:10:04.564509 countAccounts No accounts found on startup
+2020-01-08 00:10:04.593170 countAccounts No accounts found on startup
+2020-01-08 00:10:04.598607 countAccounts No accounts found on startup
+2020-01-08 00:10:09.390231 lockSession This session has been locked.
+2020-01-08 00:10:09.390491 refreshWindow Window has been refreshed.
+2020-01-08 00:10:09.465622 countAccounts No accounts found on startup
+2020-01-08 00:10:09.465839 countAccounts No accounts found on startup
+2020-01-08 00:10:09.500119 countAccounts No accounts found on startup
+2020-01-08 00:10:09.505753 countAccounts No accounts found on startup
+=============================================Application Started at 2020-01-08 13:50:19.7697962020-01-08 13:50:19.840478 mainFile Data found
+2020-01-08 13:50:19.931608 countAccounts No accounts found on startup
+2020-01-08 13:50:19.931823 countAccounts No accounts found on startup
+2020-01-08 13:50:19.975127 countAccounts No accounts found on startup
+2020-01-08 13:50:19.980718 countAccounts No accounts found on startup
